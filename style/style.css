@@ -1,0 +1,178 @@
+.header-box {
+  height: 110px;
+}
+.logo {
+  height: 50px;
+  width: 225px;
+  margin-left: 70px;
+  margin-top: 60px;
+}
+.sextion-box {
+  display: flex;
+  height: 1800px;
+}
+.info-box {
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  width: 600px;
+  margin-left: 70px;
+}
+.topic {
+  font-family: "cabin sketch";
+  font-size: 81px;
+  color: #333333;
+}
+.text {
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  color: #333333;
+  width: 440px;
+}
+.box-element {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+.btn-box {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.btn {
+  height: 66px;
+  width: 264px;
+  background-color: #cf3031;
+  color: #ffff;
+  border-radius: 20px;
+  border-color: #000000;
+  font-size: 17px;
+  font-style: inherit;
+  font-family: "roboto", sans-serif;
+  text-decoration: none;
+  text-align: center;
+}
+.span-box {
+  font-size: 12px;
+}
+.menu {
+  font-family: "roboto", sans-serif;
+  font-size: 17px;
+  text-decoration: none;
+  color: #4f4f4f;
+  margin-left: 30px;
+}
+.pic1 {
+  position: absolute;
+  right: -5px;
+  top: 58px;
+  z-index: 1;
+}
+.pic2 {
+  position: absolute;
+  right: 0px;
+  top: 110px;
+  z-index: 2;
+}
+.pic3 {
+  position: absolute;
+  top: 426px;
+  right: 580px;
+  z-index: 3;
+}
+.pic4 {
+  position: absolute;
+  right: 506px;
+  top: 147px;
+  z-index: 3;
+}
+.pic5 {
+  position: absolute;
+  right: 25px;
+  top: 16px;
+  z-index: 3;
+}
+.pic6 {
+  position: absolute;
+  right: 428px;
+  top: 693px;
+  z-index: 3;
+}
+.pic7 {
+  position: absolute;
+  right: 26px;
+  top: 700px;
+  z-index: 3;
+}
+.pic8 {
+  position: absolute;
+  right: -10px;
+  top: 70px;
+  z-index: 4;
+}
+.pic9 {
+  position: absolute;
+  right: -10px;
+  top: 207px;
+  z-index: 3;
+}
+.pic10 {
+  position: absolute;
+  left: 633px;
+  top: 861px;
+}
+.pic11 {
+  position: absolute;
+  left: 146px;
+  top: 793px;
+}
+.title {
+  text-align: center;
+  font-family: "roboto", sans-serif;
+  font-size: 48px;
+}
+.colortext {
+  color: #cf3031;
+}
+.delivery-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 500px;
+}
+.delivery {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.square {
+  border: 1px solid #ffff;
+  border-radius: 50px;
+  height: 280px;
+  width: 280px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  background-color: #ffff;
+  z-index: 2;
+}
+.pic12 {
+  position: absolute;
+  left: 900px;
+  top: 1320px;
+  z-index: 1;
+}
+.name1 {
+  padding-top: 110px;
+  padding-left: 17px;
+}
+.name2 {
+  padding-top: 80px;
+  padding-left: 48px;
+}
+.name3 {
+  padding-top: 120px;
+  padding-left: 57px;
+}
+.name4 {
+  padding-top: 123px;
+  padding-left: 53px;
+}
